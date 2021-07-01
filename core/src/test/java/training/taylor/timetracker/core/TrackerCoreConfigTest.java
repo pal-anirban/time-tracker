@@ -23,7 +23,7 @@ public class TrackerCoreConfigTest {
 
     @Test
     public void testMe() {
-        assertNull(entries);
+        assertNotNull(entries);
     }
 
 }
