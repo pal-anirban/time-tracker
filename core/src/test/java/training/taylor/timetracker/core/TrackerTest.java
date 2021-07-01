@@ -20,7 +20,7 @@ public class TrackerTest {
 
     @Test
     public void testMe() {
-        assertNull(tracker);
+        assertTrue(tracker);
     }
 
     @Test
